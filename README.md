@@ -4,15 +4,15 @@
 
 **BattleTeam** é um jogo desenvolvido para a disciplina de Computabilidade e Complexidade de Algoritmos no 6º Semestre do curso de Ciência da Computação na UDF. O jogo tem como objetivo defender uma área (elemento verde) dos inimigos (elementos vermelhos), o jogador (elementos em azul) deve defender podendo se mover livremente pela tela (area de jogo).  
 
-## 🧑‍🤝‍🧑 Participantes
+## 👥 Participantes
 
 - 👩‍🏫 **Professora:** [Kadidja Valéria](https://github.com/Kadidjah)  
 - 👤 [**João Pedro Coutinho**](https://github.com/mysterious-man01) | RGM: 29982588 
 
-## 🚀 Tecnologias
+## 💻 Tecnologias
 
 - **C**
-- **SDL2 e SDL_ttl** (biblioteca multimidia para renderização)
+- **[SDL2](https://github.com/libsdl-org/SDL) e [SDL_ttl](https://github.com/libsdl-org/SDL_ttf)** (bibliotecas multimidia necessárias para renderização)
 
 ## 📋 Instalação e Execução
 
