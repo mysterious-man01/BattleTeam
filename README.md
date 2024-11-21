@@ -1,5 +1,11 @@
 # BattleTeam
 
+
+
+https://github.com/user-attachments/assets/f69fd313-76c8-49e3-8116-aed83c6f9abf
+
+
+
 ## 🎮 Descrição
 
 **BattleTeam** é um jogo desenvolvido para a disciplina de Computabilidade e Complexidade de Algoritmos no 6º Semestre do curso de Ciência da Computação na UDF. O jogo tem como objetivo defender uma área (elemento verde) dos inimigos (elementos vermelhos), o jogador (elementos em azul) deve defender podendo se mover livremente pela tela (area de jogo).  
