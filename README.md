@@ -1,4 +1,4 @@
-# BattleTeam 🐾 
+# BattleTeam
 
 ## 🎮 Descrição
 
