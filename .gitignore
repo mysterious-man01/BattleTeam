@@ -1,0 +1,4 @@
+.vscode
+build
+SDL2
+SDL2_ttf
