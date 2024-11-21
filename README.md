@@ -1,4 +1,4 @@
-# BattleTeam
+# 🛡️ BattleTeam 🛡️
 
 
 
@@ -73,3 +73,46 @@ Em um terminal aberto no diretório raíz do projeto digite:
   make
   ```
 
+## 🎯 Objetivo
+
+O objetivo deste projeto é desenvolver um jogo utilizando C puro e SDL2, onde o foco está na interação entre entidades dinâmicas (aliados e inimigos), gerenciamento de estados (como seguir, atacar) O projeto visa implementar mecânicas de movimento, detecção de colisões, combate.
+
+## 🎮 Regras (Jogabilidade)
+
+- O objetivo do jogo é defender a área verde dos inimigos.
+- Quando um inimigo é eliminado, ele reaparece em algum ponto de alguma das bordas da tela
+- Quando um aliado é eliminado, ele reaparece ao redor do cursor do jogador.
+- quando a área do objetivo é destruída, ela reaparece em algum ponto aleatório da área de renderização da tela do jogo.
+- Os inimigos irão segir o alvo mais próximo seja ele a área verde ou os aliados.
+- Os aliados irão seguir o cursor do jogador.
+- Quando um inimigo se aproximar do raio de ação do aliado, o mesmo irá atacar.
+- Quando um inimigo se aproximar da área verde ou de algum aliado, o mesmo atacará.
+- Controles:
+  - mouse: Responsável por guiar os aliados.
+  - Tecla ESC: Finaliza o jogo.
+
+## ✒️ Checklist de Desenvolvimento
+
+### Definição do Tema
+
+- ✅ cenário de estratégia e sobrevivência, onde o jogador lidera um grupo de aliados para proteger um objetivo principal enquanto enfrenta ondas de inimigos.
+
+### Planejamento
+
+- ✅ 1. Definição do Escopo do jogo.
+- ✅ 2. Implementação das Estruturas de Dados das entidades do jogo.
+- ✅ 3. Mecânicas de Jogo como os autômatos para os inimigos e aliados.
+- ✅ 4. Controle e Física dos elementos do jogo
+- ✅ 6. Renderização dos elementos do jogo como inimigos, aliados, o objetivo e o cursor.
+
+### Desenvolvimento
+
+- ✅ Foi utilizado o conceito de modularização onde blocos de códigos foram divididos em funções baseadas em suas respectivas funcionalidades e separadas em arquivos diferêntes para cada escopo funcional. 
+
+### Testes
+
+- ⌛ Foram realizados testes nos sistemas de colizão, renderização, Controles e nos autômatos dos inimigos e aliados.
+
+## 📶 Identificação da Complexidade
+
+O jogo apresenta uma complexidade moderada em termos de lógica e desempenho, considerando elementos como movimentação, colisões, transições de estados e interações entre entidades.
