@@ -22,16 +22,6 @@ https://github.com/user-attachments/assets/f69fd313-76c8-49e3-8116-aed83c6f9abf
 
 ## 📋 Instalação e Execução
 
-### **Windows**
-
-### 1. Download
-Baixe o arquivo [BattleTeam.zip](https://github.com/mysterious-man01/BattleTeam/releases/tag/1.0) e extraia.
-
-### 2. Execute o arquivo
-Depois de extrair, entre na pasta **BattleTeam** e execute o programa **BattleTeam.exe**
-
-### ou
-
 ### 1. Clone o repositório
 
 clone este repositório:
@@ -42,7 +32,7 @@ clone este repositório:
 
 ### 2. Instale as dependências
 
-instale o compilador C/C++ MinGW-w64:
+instale o compilador C/C++ MinGW-w64 (Windows):
 
 - [w64devkit](https://github.com/skeeto/w64devkit)
 
